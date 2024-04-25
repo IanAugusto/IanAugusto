@@ -18,7 +18,7 @@
 
 
 <!-- GithubStats -->
-![IanAugusto GitHub stats](https://github-readme-stats.vercel.app/api?username=IanAugustoi&show_icons=true&theme=gotham)
+![IanAugusto GitHub stats](https://github-readme-stats.vercel.app/api?username=IanAugusto&show_icons=true&theme=gotham)
 
 <!-- Portfolio -->
 ## Portfólio:
