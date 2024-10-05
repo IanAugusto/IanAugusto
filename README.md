@@ -1,5 +1,5 @@
 # 💫 About Me:
-Olá eu sou Ian, sou estudante do curso de engenharia de software pela Uni-FACEF, atualmente<br>cursando o 6° semestre<br>Sou aficionado por tecnologia, e em como podemos usá-las para  solucionar problemas do dia a dia<br>Considero características do meu perfil como ser uma pessoa bastante proativa, autodidata e curioso/fuçado em estar<br>sempre buscando a aprender mais com as situações, problemas que ocorrem durante o dia para<br>trazer a melhor solução possível, sempre buscando entrar mais do foi pedido. Também considero que possuo <br>como minha característica ser bastante flexível, comunicativo, gostar de liderar grupos e trabalhar em equipe.<br>
+Olá eu sou Ian, sou estudante do curso de engenharia de software pela Uni-FACEF, atualmente<br>cursando o 7° semestre<br>Sou aficionado por tecnologia, e em como podemos usá-las para  solucionar problemas do dia a dia<br>Considero características do meu perfil como ser uma pessoa bastante proativa, autodidata e curioso/fuçado em estar<br>sempre buscando a aprender mais com as situações, problemas que ocorrem durante o dia para<br>trazer a melhor solução possível, sempre buscando entrar mais do foi pedido. Também considero que possuo <br>como minha característica ser bastante flexível, comunicativo, gostar de liderar grupos e trabalhar em equipe.<br>
 
 
 ## 🌐 Socials:
