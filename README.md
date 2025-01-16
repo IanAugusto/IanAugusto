@@ -2,11 +2,11 @@
 Estudante de Engenharia de software, atualmente no 7° semestre.<br>Possuo experiência em desenvolvimento de aplicações web, principalmente em aplicações monolíticas utilizando Node.js com express, PHP, React.js, PostgreSQL, MongoDB e Oracle.  Possuo experiência em arquitetura de software, tendo participado de 3 projetos, e sendo peça principal para o estudo de caso do projeto,  de elaboração da documentação do projeto utilizando os conceitos de diagramas como o Business Process Model and Notation (BPMN), de caso de uso, de atividade, classes, máquina de estado e sequência. Além dos documentos de requisitos funcionais e não funcionais e documentos de caso de uso, elaborando a experiência do usuário, arquitetando o banco de dados para o sistema até sua implementação e acompanhando junto aos desenvolvedores todo processo de desenvolvimento até sua entrega para o cliente. <br>Também possuo conhecimento em Python para ciências de dados, com as principais bibliotecas pandas e numpy, seaborn e matplotlib. <br>Estou estudando criação de ETLs com airflow e Pyspark, somando ao estudo de power BI. Tenho conhecimento básico em excel.
 
 ## Certificações:
-Oracle Academy - Database Design
-Oracle Academy - Programming with SQL
-Oracle Academy - Programming with PL/SQL
-CCM - Introdução a Oracle Cloud
-Empowerdata - Bootcamp Power BI
+Oracle Academy - Database Design \\
+Oracle Academy - Programming with SQL \\
+Oracle Academy - Programming with PL/SQL \\
+CCM - Introdução a Oracle Cloud \\
+Empowerdata - Bootcamp Power BI \\
 ...
 
 ## 🌐 Socials:
