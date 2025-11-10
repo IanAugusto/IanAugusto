@@ -1,16 +1,16 @@
 # 💫 About Me:
 Data Engineer with a degree in Software Engineering, specialized in designing and implementing scalable ETL/ELT pipelines and cloud-based data solutions with focus on automation and efficiency.
-Core Competencies:
-➡️ Data Engineering: ETL/ELT Pipeline Development, Data Lake Architecture, Data Modeling, Data Warehouse Design
-➡️ Cloud Platforms: AWS (Lambda, S3, Step Functions, Athena, Redshift, QuickSight), Google Cloud Platform
-➡️ Programming: Python, SQL, Node.js, JavaScript
-➡️ Data Tools: Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn
-➡️ Visualization: Power BI, Amazon QuickSight, Metabase
-➡️ Databases: PostgreSQL, Oracle, MongoDB
-➡️ Modern Stack: Databricks, dbt, Apache Spark, Apache Airflow, Docker
-➡️ Development Practices: Git, CI/CD, Scrum, Kanban, Software Documentation
+Core Competencies: <br/>
+➡️ Data Engineering: ETL/ELT Pipeline Development, Data Lake Architecture, Data Modeling, Data Warehouse Design<br/>
+➡️ Cloud Platforms: AWS (Lambda, S3, Step Functions, Athena, Redshift, QuickSight), Google Cloud Platform<br/>
+➡️ Programming: Python, SQL, Node.js, JavaScript<br/>
+➡️ Data Tools: Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn<br/>
+➡️ Visualization: Power BI, Amazon QuickSight, Metabase<br/>
+➡️ Databases: PostgreSQL, Oracle, MongoDB<br/>
+➡️ Modern Stack: Databricks, dbt, Apache Spark, Apache Airflow, Docker<br/>
+➡️ Development Practices: Git, CI/CD, Scrum, Kanban, Software Documentation<br/>
 I have successfully delivered data engineering projects including automated cloud pipelines that process large datasets stored in S3 Data Lakes, transforming raw data into valuable business insights through integrated BI solutions. My experience spans both data engineering and backend development, having built REST APIs and collaborated with cross-functional teams as a Product Owner on award-winning projects.
-Passionate about leveraging cloud technologies to create cost-effective, scalable data architectures that drive data-driven decision-making.
+Passionate about leveraging cloud technologies to create cost-effective, scalable data architectures that drive data-driven decision-making.<br/>
 
 ## Certificações:
 Oracle Academy - Database Design \\
